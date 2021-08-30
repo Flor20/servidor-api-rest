@@ -1,0 +1,16 @@
+{
+  "name": "servidorapirest",
+  "version": "1.0.0",
+  "description": "Servidor de apis",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/serve.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Software ESPE",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+  
+}
